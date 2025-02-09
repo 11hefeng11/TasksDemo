@@ -1,0 +1,20 @@
+/* styles/globals.css */
+
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+button {
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 8px;
+  margin-right: 10px;
+}
